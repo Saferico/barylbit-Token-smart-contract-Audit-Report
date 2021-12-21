@@ -1,2 +1,2 @@
-# barylbit-Token-smart-contract-Audit-Report
-barylbit Token smart contract Audit Report automatic type
+# berylbit-Token-smart-contract-Audit-Report
+berylbit Token smart contract Audit Report automatic type
